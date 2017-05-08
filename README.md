@@ -5,5 +5,3 @@ This is second line just to make some changes to be tracked by git.
 Some change
 
 Git is version control system that help us to avoid 'final doc' problem.
-
-This is the commit am not aware of.
